@@ -1,2 +1,2 @@
 # Jsp-Blog
-Springboot + jsp + mySql
+Springboot + jsp/servlet + mySql
